@@ -6,8 +6,8 @@ Our VR project, developed using Unity, presents an immersive simulation of a bus
 
 ## Team Members
 - **Abdelrahman Aly Mostafa**
-- **Ahlam Gomaa**
 - **Shehab Eldein Mohammed**
+- **Ahlam Gomaa**
  - **Amal Mohammed**
 - **Abdallah Omar**
 - **Abdallah Mohammed**
