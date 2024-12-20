@@ -30,6 +30,3 @@ Our VR project, developed using Unity, presents an immersive simulation of a bus
 ## Experience the Fun
 This project is designed for entertainment, exploration, and showcasing the possibilities of virtual reality. Users can enjoy a mix of gaming, exploration, and real-world simulations—all built with attention to detail and creativity by our dedicated team.
 
----
-
-Feel free to use this content as your README page on GitHub! If you’d like additional sections (like installation instructions, a project roadmap, or future plans), let me know!
