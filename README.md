@@ -8,6 +8,7 @@ Our VR project, developed using Unity, presents an immersive simulation of a bus
 - **Abdelrahman Aly Mostafa**
 - **Shehab Eldein Mohammed**
 - **Ahlam Gomaa**
+- *Amal Mohammed**
 - **Abdallah Omar**
 - **Abdallah Mohammed**
 
